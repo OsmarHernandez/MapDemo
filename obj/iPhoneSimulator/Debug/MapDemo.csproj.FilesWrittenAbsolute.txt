@@ -1,0 +1,11 @@
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/optimized/monkey.png
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/optimized/Default-568h@2x.png
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/optimized/
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/bin/iPhoneSimulator/Debug/MapDemo.exe.mdb
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/bin/iPhoneSimulator/Debug/MapDemo.exe
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/MapDemo.exe
+/Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/MapDemo.exe.mdb
