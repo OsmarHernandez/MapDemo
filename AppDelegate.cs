@@ -12,6 +12,7 @@ namespace MapDemo
 			set;
 		}
 
+
 		public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
 		{
 			if (UIDevice.CurrentDevice.CheckSystemVersion(8, 0))

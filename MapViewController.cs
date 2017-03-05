@@ -3,6 +3,8 @@ using UIKit;
 using CoreLocation;
 using MapKit;
 using Foundation;
+using System.Collections.Generic;
+using Xamarin.Forms.Maps;
 
 namespace MapDemo
 {
@@ -19,13 +21,17 @@ namespace MapDemo
 		}
 
 		public void check(double lon, double lat) {
+			var mapCenter = new CLLocationCoordinate2D(lat, lon);
+			var mapRegion = MKCoordinateRegion.FromDistance(mapCenter, 3000, 3000);
+			map.CenterCoordinate = mapCenter;
+			map.Region = mapRegion;
 			if ((lon <= ((-34 * 0.0005) - 106.48694)) && (lat >= ((15 * 0.0005) + 31.739444)) && fuera) {
 				fuera = false;
 	
 				var notification = new UILocalNotification();
 
 				// set the fire date (the date time in which it will fire)
-				notification.FireDate = NSDate.Now.AddSeconds(1); //DateTime.Now.AddSeconds(10));
+				notification.FireDate = NSDate.Now.AddSeconds(5); //DateTime.Now.AddSeconds(10));
 				notification.TimeZone = NSTimeZone.DefaultTimeZone;
 				// configure the alert stuff
 				notification.AlertTitle = "Peligro";
@@ -71,20 +77,25 @@ namespace MapDemo
 			mapDel = new MyMapDelegate();
 			map.Delegate = mapDel;
 
-			/* add a custom annotation
-			map.AddAnnotation (new MonkeyAnnotation ("Xamarin", mapCenter));
-			*/
 
 			// add an overlay
 			var circleOverlay = MKCircle.Circle(mapCenter, 200);
 			map.AddOverlay(circleOverlay);
 
+			// Safe Zone
+			var mapSafe = new CLLocationCoordinate2D(31.75, -106.5);
+			var safeOverlay_01 = MKCircle.Circle(mapSafe, 20);
+			map.AddOverlay(safeOverlay_01);
+			//map.AddAnnotation(new MonkeyAnnotation("Xamarin", mapCenter));
+			var punto = new MKPointAnnotation();
+			punto.Title = "Startbucks";
+			punto.Coordinate = new CLLocationCoordinate2D(31.75, -106.5);
+			map.AddAnnotation(punto);
+
 			// Danger Zone
 			var mapDanger = new CLLocationCoordinate2D(31.7526, -106.5053);
 			var dangerOverlay_01 = MKCircle.Circle(mapDanger, 400);
 			map.AddOverlay(dangerOverlay_01);
-
-			// circleOverlay intersects with dangerOverlay_01
 
 
 			// Busqueda
@@ -184,6 +195,16 @@ namespace MapDemo
 			}
 		}
 
+		public class CustomMap : Map
+		{
+			public List<Position> RouteCoordinates { get; set; }
+
+			public CustomMap()
+			{
+				RouteCoordinates = new List<Position>();
+			}
+		}
+
 		class MyMapDelegate : MKMapViewDelegate
 		{
 			string pId = "PinAnnotation";
@@ -244,4 +265,5 @@ namespace MapDemo
 			}
 		}
 	}
+
 }

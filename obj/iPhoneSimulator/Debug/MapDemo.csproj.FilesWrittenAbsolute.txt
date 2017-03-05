@@ -9,3 +9,17 @@
 /Users/osmarhernandez/Downloads/MapDemo/MapDemo/bin/iPhoneSimulator/Debug/MapDemo.exe
 /Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/MapDemo.exe
 /Users/osmarhernandez/Downloads/MapDemo/MapDemo/obj/iPhoneSimulator/Debug/MapDemo.exe.mdb
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/obj/iPhoneSimulator/Debug/optimized/monkey.png
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/obj/iPhoneSimulator/Debug/optimized/Default-568h@2x.png
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/obj/iPhoneSimulator/Debug/optimized/
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/bin/iPhoneSimulator/Debug/MapDemo.exe.mdb
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/bin/iPhoneSimulator/Debug/MapDemo.exe
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/obj/iPhoneSimulator/Debug/MapDemo.exe
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/obj/iPhoneSimulator/Debug/MapDemo.exe.mdb
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll

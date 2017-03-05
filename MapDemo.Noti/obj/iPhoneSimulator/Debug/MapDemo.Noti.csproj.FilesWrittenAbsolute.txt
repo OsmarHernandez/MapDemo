@@ -1,0 +1,9 @@
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/obj/iPhoneSimulator/Debug/Xamarin.WatchOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/obj/iPhoneSimulator/Debug/optimized/
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/bin/iPhoneSimulator/Debug/MapDemoNoti.dll.mdb
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/bin/iPhoneSimulator/Debug/MapDemoNoti.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/obj/iPhoneSimulator/Debug/MapDemoNoti.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.Noti/obj/iPhoneSimulator/Debug/MapDemoNoti.dll.mdb

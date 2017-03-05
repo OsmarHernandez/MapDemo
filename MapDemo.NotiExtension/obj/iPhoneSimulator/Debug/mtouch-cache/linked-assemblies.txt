@@ -1,0 +1,7 @@
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.NotiExtension/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.NotiExtension/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.NotiExtension/obj/iPhoneSimulator/Debug/mtouch-cache/Link/MapDemoNotiExtension.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.NotiExtension/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.NotiExtension/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.WatchOS.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.NotiExtension/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/Morales/Documents/Escuela/6toSemestre/TallerVertical/MapDemo/MapDemo.NotiExtension/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
